@@ -1,1 +1,1 @@
-hello
+This repo starts with the working of BricksLabs at Collage contaning all the exersises given per day
