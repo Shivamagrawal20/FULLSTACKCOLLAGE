@@ -56,7 +56,7 @@ bridgelabs-training/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/bridgelabs-training.git
+   git clone [https://github.com/Shivamagrawal20/bridgelabs-training.git](https://github.com/Shivamagrawal20/Bridgelabz-Traning/tree/main)
    ```
 2. Navigate to a topic folder
 3. Open files in your preferred IDE
