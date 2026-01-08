@@ -95,13 +95,3 @@ BridgeLabs Trainee | Aspiring Software Engineer
 * Mentors and trainers for guidance
 * Open-source community
 
----
-
-If you want, I can also:
-
-* Make a **shorter README**
-* Customize it for **Java-only / DSA-only**
-* Add **badges** (Java, GitHub, Training)
-* Write a **professional GitHub bio** to match this repo
-
-Just tell me 👍
