@@ -42,6 +42,6 @@ push origin main
 git rm src/old-file.js ----->Removing file
 git rmf src/old-file.js ----->Removing folder
 
-git tag -a v1.1.0.0
+git tag -a v1.1.0.0  ---> if we update with the same tag then it shows a fatal error 
 git tag -a v1.1.0.0
 /*
