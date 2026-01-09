@@ -1,6 +1,8 @@
 console.log("Welcome to Git Basics!");
 console.log("This is a simple JavaScript file to demonstrate Git basics.");
 console.log("You can modify this file and track changes using Git.");
+//8279855067  Brigdlabs tranniee
+
 
 /*
 Installing Git
@@ -27,9 +29,16 @@ git push origin main
 
 /*
 git pull origin main
-
 */
 
 
+//how to commit versions to a website
+/*
+git rm -n //file.txt
+git rm //file.txt
+commit -m "Removed file.txt"
+push origin main
 
-
+git rm src/old-file.js ----->Removing file
+git rmf src/old-file.js ----->Removing folder
+/*
